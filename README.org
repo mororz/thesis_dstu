@@ -1,0 +1,6 @@
+#+TITLE: Latex template complient with ДСТУ 3008:2015 and ДСТУ 8302:2015
+#+AUTHOR: Andrew Moroz
+
+* Synopsis
+
+TODO..
